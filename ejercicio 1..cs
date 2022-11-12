@@ -6,7 +6,7 @@ using System.Threading.taks;
 namespace Ejercicio1
 { class Ejercicio1
     { private float[] altura;
-        private float promedio;
+        private float prom;
 
         public void inicio() 
         {
